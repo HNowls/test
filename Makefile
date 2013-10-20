@@ -1,2 +1,2 @@
-a.out:test.c
-	gcc -g test.c
+a.out:test.c hello.c
+	gcc -g test.c hello.c
